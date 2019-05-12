@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555794674 source:c:\users\osama_mohsen\desktop\ass2_openmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+
